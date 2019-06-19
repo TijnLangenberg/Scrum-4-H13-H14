@@ -1,5 +1,5 @@
-package _13_abstracte_klassen.qz01;
-
+package h13quiz1;
+//h13quiz1 gemaakt door: Zinho, op 19-06.
 public abstract class MijnAbstract
 {
   protected int x = 6;
