@@ -12,3 +12,4 @@ abstract class Quiz3 {
 		str += str;
 	}
 }
+ 

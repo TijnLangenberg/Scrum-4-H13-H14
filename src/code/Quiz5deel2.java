@@ -29,4 +29,4 @@ public class Quiz5deel2 extends Quiz5 {
 		
 	}
 }
- 
+  

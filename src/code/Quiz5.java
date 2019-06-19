@@ -7,3 +7,4 @@ public abstract class Quiz5 {
 	abstract String methodeB(String s);
 
 }
+ 
