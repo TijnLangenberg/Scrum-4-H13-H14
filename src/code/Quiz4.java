@@ -1,14 +1,8 @@
 package code;
 
-abstract class Quiz4 {
-	
-	String str = "N";
+public abstract class Quiz4 {
 	
 	Quiz4() {
-		this("0");
-		str += "L";
-	}
-	Quiz4(String str) {
-		str += str;
+		System.out.print("a");
 	}
 }
