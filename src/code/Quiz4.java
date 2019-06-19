@@ -1,14 +1,14 @@
 package code;
 
-abstract class Quiz1 {
+abstract class Quiz4 {
 	
 	String str = "N";
 	
-	Quiz1() {
+	Quiz4() {
 		this("0");
 		str += "L";
 	}
-	Quiz1(String str) {
+	Quiz4(String str) {
 		str += str;
 	}
 }

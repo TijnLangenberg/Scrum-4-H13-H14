@@ -1,18 +1,18 @@
 package code;
 
-public class Quiz1deel2 extends Quiz1 {
+public class Quiz4deel2 extends Quiz4 {
 	
-	Quiz1deel2() {
+	Quiz4deel2() {
 		this(2);
 		str += 7;
 	}
-	Quiz1deel2(int x) {
+	Quiz4deel2(int x) {
 		str += x;
 	}
 	
 	public static void main(String[] args) {
 		
-		Quiz1deel2 mk = new Quiz1deel2();
+		Quiz4deel2 mk = new Quiz4deel2();
 		System.out.print(mk.str);
 	}
 }
