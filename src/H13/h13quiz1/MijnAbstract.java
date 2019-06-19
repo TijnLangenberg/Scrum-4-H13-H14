@@ -1,4 +1,4 @@
-package H13.h13quiz1;
+package src.H13.h13quiz1;
 //h13quiz1 gemaakt door: Zinho, op 19-06.
 public abstract class MijnAbstract
 {
@@ -8,4 +8,5 @@ public abstract class MijnAbstract
     x += 2;
   }
   abstract int bereken(int x);
+  abstract printNaam(String naam);
 }
