@@ -12,4 +12,4 @@ public class Quiz4deel3 extends Quiz4deel2 {
 		new Quiz4deel3(4);
 	}
 }
-  
+   

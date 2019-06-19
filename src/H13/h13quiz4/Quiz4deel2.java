@@ -10,4 +10,4 @@ public class Quiz4deel2 extends Quiz4 {
 		
 		System.out.print("d" + i);
 	}
-} 
+}  

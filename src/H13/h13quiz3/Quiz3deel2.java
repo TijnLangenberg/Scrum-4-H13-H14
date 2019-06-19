@@ -16,4 +16,4 @@ public class Quiz3deel2 extends Quiz3 {
 		System.out.print(mk.str);
 	}
 }
- 
+  
