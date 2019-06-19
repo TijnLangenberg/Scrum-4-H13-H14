@@ -1,4 +1,4 @@
-package h13quiz1;
+package H13h13quiz1;
 //h13quiz1 gemaakt door: Zinho, op 19-06.
 public class MijnKlasse extends MijnAbstract
 {
