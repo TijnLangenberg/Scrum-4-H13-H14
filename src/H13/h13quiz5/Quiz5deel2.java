@@ -1,4 +1,4 @@
-package code;
+package src.H13.h13quiz5;
 
 public class Quiz5deel2 extends Quiz5 {
 	
