@@ -1,10 +1,6 @@
-public interface MijnInterface{
-	int x = 5;
-	void methode();
-	void methode(int i);
-}
+package src.H14.h14quiz1;
 
-public class h14q1 implements MijnInterface{
+public class H14q1V implements MijnInterfaceV{
 	public void methode() {
 		// x++; /*1*/
 		System.out.print(x);
@@ -16,6 +12,6 @@ public class h14q1 implements MijnInterface{
 		System.out.print(z);
 	}
 	public static void main(String[] args) {
-		new h14q1().methode(4);
+		new H14q1V().methode(4);
 	}
 }
