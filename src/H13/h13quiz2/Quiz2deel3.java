@@ -10,4 +10,4 @@ public class Quiz2deel3 extends Quiz2deel2 {
 		
 		new Quiz2deel3().printletter('s');
 	}
-}
+} 

@@ -7,4 +7,4 @@ public abstract class Quiz2 {
 		System.out.print("n");
 	}
 	abstract void printletter(char c);
-}
+} 

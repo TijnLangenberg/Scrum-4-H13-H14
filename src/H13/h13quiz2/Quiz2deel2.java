@@ -12,4 +12,4 @@ public class Quiz2deel2 extends Quiz2 {
 			
 			System.out.print(c);
 		}
-	}
+	} 
