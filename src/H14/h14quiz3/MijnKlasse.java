@@ -1,4 +1,4 @@
-package _14_interfaces.qz03;
+package src.H14.h14quiz3;
 
 public class MijnKlasse extends Superklasse
 {

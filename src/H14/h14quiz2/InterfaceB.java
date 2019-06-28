@@ -1,4 +1,4 @@
-package _14_interfaces.qz02;
+package src.H14.h14quiz2;
 
 public interface InterfaceB
 {

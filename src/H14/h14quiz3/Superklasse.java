@@ -1,4 +1,4 @@
-package _14_interfaces.qz03;
+package src.H14.h14quiz3;
 
 public abstract class Superklasse implements MijnInterface
 {
